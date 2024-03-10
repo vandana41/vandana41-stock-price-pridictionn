@@ -1,1 +1,1 @@
-# vandana41-stock-price-pridictionn
+# stock-price-pridictionn
